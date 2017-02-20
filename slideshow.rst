@@ -51,6 +51,7 @@ Collecting loot
 To find out more about loot follow `the link`_.
 to the `Division web site <http://tomclancy-thedivision.ubisoft.com/game/en-us/home/>`_
 .. _the link: http://example.com/
+
 .. image:: ./images/d4.PNG
 
 
@@ -58,4 +59,5 @@ The Enemy
 =========
 ::
 **They are multiple enemies in the game, but avoid the cleaners**
+
 .. image:: ./images/d5.PNG
