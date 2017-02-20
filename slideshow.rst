@@ -11,14 +11,11 @@ First Person vs Third person
 
 	First Person
 	^^^^^^^^^^^^
-	In a first person game the player is portrayed 
-	as the person with the weapon
+	* In a first person game the player is portrayed  as the person with the weapon
 	
 	Third person
 	^^^^^^^^^^^^
-	In a third person game, the player
-	see the person wioth the weapon and
- 	directs their actions
+	* In a third person game, the player see the person wioth the weapon and directs their actions
 
 .. image:: ./images/d1.PNG
 
@@ -45,8 +42,7 @@ The Dark zone
 
 Collecting loot
 ===============
-To find out more about loot visit the
- `Division web site <http://tomclancy-thedivision.ubisoft.com/game/en-us/home/>`_
+To find out more about loot visit the `Division web site <http://tomclancy-thedivision.ubisoft.com/game/en-us/home/>`_
 
 .. image:: ./images/d4.PNG
 
