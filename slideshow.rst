@@ -11,6 +11,7 @@ First Person vs Third person
 First Person
 ^^^^^^^^^^^^
 In a first person game the player is portrayed as the person with the weapon
+
 Third person
 ^^^^^^^^^^^^
 In a third person game, the playersee the person wioth the weapon and directs their actions
