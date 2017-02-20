@@ -42,7 +42,6 @@ The Dark zone
 
 Collecting loot
 ===============
-To find out more about loot visit the `Division web site <http://tomclancy-thedivision.ubisoft.com/game/en-us/home/>`_
 
 .. image:: ./images/d4.PNG
 
